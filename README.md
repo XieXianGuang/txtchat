@@ -4,6 +4,16 @@
 
 ---
 
+## 🧩 社区
+
+[![加入官方 QQ 群](https://img.shields.io/badge/QQ群-点击加入官方QQ群-12b7f5?logo=tencentqq&logoColor=white)](https://qm.qq.com/q/u9ibXYWU1i)
+[![加入官方Telegram频道](https://img.shields.io/badge/Telegram-加入官方TG频道-26A5E4?logo=telegram&logoColor=white)](https://t.me/XieXianGuang20110501)
+[![加入TG官方群](https://img.shields.io/badge/Telegram-加入官方TG群-26A5E4?logo=telegram&logoColor=white)](https://t.me/XieXianGuang20260613)
+
+---
+
+[简体中文](README..md) | [繁體中文（香港）](README.tw.md) | [繁體中文（中國台灣）](README.hk.md) | [English](README.en.md)
+
 ## ✨ 功能特性
 
 - ✅ **零认证** —— 因为身份本就是幻觉
