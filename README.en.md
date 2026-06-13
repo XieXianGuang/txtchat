@@ -15,7 +15,7 @@ A chat app without a database, without users, without CSS, and without shame
 ---
 
 
-[简体中文](README.md) | [繁體中文（中國香港）](README.hk.md) | [繁體中文（中國台灣）](README.tw.md) | [English](README.en.md)
+[简体中文](README.md) | [繁體中文（中國香港）](README.hk.md) | [繁體中文（中國台灣）](README.tw.md) | [English](README.en.md) | [にほんご](README.ja.md)
 
 ## ✨ Features 
 
