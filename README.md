@@ -1,5 +1,4 @@
 # txtchat
-![readme_cn_Lago](https://img.cdn1.vip/i/6a2d12dcddeb7_1781338844.webp)
 一个没有数据库、没有用户、没有 CSS、也没有羞耻心的聊天应用
 
 ✨ 功能特性
@@ -14,12 +13,12 @@
 🚀 快速开始
 1. 克隆仓库
 git clone https://github.com/XieXianGuang/txtchat.git
-cd txtchat
-2. 编译
+2.cd txtchat
+3. 编译
 go build
-3. 运行
+4. 运行
 ./txtchat
-4. 开始呐喊
+5. 开始呐喊
 打开浏览器，在地址栏输入：http://localhost:8080，打开主页
 
 📡 使用方法
